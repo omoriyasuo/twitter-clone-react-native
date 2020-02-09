@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-paper",
-    "slug": "react-native-paper",
+    "name": "twitter-clone-with-rnpaper",
+    "slug": "twitter-clone-with-rnpaper",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -25,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
